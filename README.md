@@ -1,2 +1,2 @@
 # tiny-tool
-Tiny Tool that can clean up temp files, say your information, how many users are in your device and test your internet.
+It can show your internet speed, IPv4 Address, IPv6 Address, Mac Address, Your Windowar Temporary files, your boot mode, proxy setting, system model and how many users there are!
